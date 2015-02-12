@@ -1,0 +1,10 @@
+{
+  "name": "dev-null",
+  "version": "0.0.0",
+  "description": "dev null",
+  "main": "app.js",
+  "private": true,
+  "dependencies":  {
+    "express": "3.x.x"
+  }
+}
